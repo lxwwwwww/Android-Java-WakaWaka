@@ -1,0 +1,2 @@
+The Collectable soda is the extension of game.Its symbol is “9” in our map file.
+In the config file,"invisibileLength" indicites the duration of the invisibile time after Waka collects soda.The unit is second.
